@@ -10,7 +10,7 @@ export default {
     },
     actions: {
         buyStock({ commit }, order) {
-            commit();
+            commit('buyStock', order);
             console.log(order)
         },
         initStocks({commit}){
