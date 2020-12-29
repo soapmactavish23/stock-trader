@@ -1,5 +1,9 @@
 <template>
-	<h1>Stock Trader</h1>
+	<v-app>
+		<v-container>
+			<router-view></router-view>
+		</v-container>
+	</v-app>
 </template>
 
 <script>
