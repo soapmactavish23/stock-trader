@@ -1,5 +1,14 @@
 # stock-trader
 
+## Video Demonstrativo:
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/FBkyWo_V6Yo)
+
+### Plataforma adotada
+  WEB
+  
+### Linguagem
+  JavaScript - VueJS
+
 ## Project setup
 ```
 npm install
