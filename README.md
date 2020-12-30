@@ -1,13 +1,13 @@
-# stock-trader
-
-## Video Demonstrativo:
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/FBkyWo_V6Yo)
+# Stock Trader
 
 ### Plataforma adotada
   WEB
   
 ### Linguagem
   JavaScript - VueJS
+
+## Video Demonstrativo:
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/FBkyWo_V6Yo)
 
 ## Project setup
 ```
