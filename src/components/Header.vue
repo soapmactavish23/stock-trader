@@ -17,7 +17,7 @@
       <v-menu offset-y>
         <v-btn flat slot="activator">Salvar & Carregar</v-btn>
         <v-list>
-          <v-list-tile>
+          <v-list-tile @click="saveData">
             <v-list-tile-title>Salvar Dados</v-list-tile-title>
           </v-list-tile>
           <v-list-tile>
@@ -27,7 +27,7 @@
       </v-menu>
       <v-layout align-center>
         <span class="text-uppercase grey--text text--darken-2">
-          Saldo: {{funds | currency}} 
+          Saldo: {{ funds | currency }}
         </span>
       </v-layout>
     </v-toolbar-items>
@@ -35,18 +35,22 @@
 </template>
 
 <script>
-import {mapActions} from 'vuex';
+import { mapActions } from "vuex";
 
 export default {
-  computed:{
-    funds(){
-      return this.$store.getters.funds
+  computed: {
+    funds() {
+      return this.$store.getters.funds;
     }
   },
   methods: {
-    ...mapActions(['randomizeStocks']),
-    endDay(){
+    ...mapActions(["randomizeStocks"]),
+    endDay() {
       this.randomizeStocks();
+    },
+    saveData() {
+      const { funds, stockPortfolio, stocks } = this.$store.getters;
+      this.$http.put("data.json", { funds, stockPortfolio, stocks });
     }
   }
 };
