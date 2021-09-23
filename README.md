@@ -1,3 +1,7 @@
+<h1 align="center">
+   <img src="alendar.google.com/calendar/u/0/r?pli=1">
+</h1>
+
 # Stock Trader
 
 ### Plataforma adotada
