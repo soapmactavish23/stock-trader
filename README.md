@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="alendar.google.com/calendar/u/0/r?pli=1">
+   <img src="https://firebasestorage.googleapis.com/v0/b/apostas-e1af2.appspot.com/o/vuejs%2Fstock-trader.PNG?alt=media&token=d2623c53-2eeb-4c27-bc26-d13545eaa607">
 </h1>
 
 # Stock Trader
