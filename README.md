@@ -6,7 +6,7 @@
 	🚧  Stock Trader 🚀 Concluido...  🚧
 </h4>
 
-<h1>✅ Funções</h1>
+<h3>✅ Funções</h3>
 
 - [x] Início
 - [x] Portifólio
@@ -15,7 +15,7 @@
 - [x] Salvar & Carregar
 - [x] Saldo
 
-<h1>🛠 Tecnologias</h1>
+<h3>🛠 Tecnologias</h3>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -23,11 +23,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-<h1>🖥️ Plataforma adotada</h1>
+<h3>🖥️ Plataforma adotada</h3>
 
   - Web
 
-<h1> 📷 Video Demonstrativo:</h1>
+<h3> 📷 Video Demonstrativo:</h3>
 
 <div>
 <a href="https://youtu.be/FBkyWo_V6Yo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
