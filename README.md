@@ -19,9 +19,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Vuejs](https://vuejs.org/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" heigth="20" width="20"/> [Vuejs](https://vuejs.org/)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="20" width="20"/> [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="20" width="20"/> [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 <h3>🖥️ Plataforma adotada</h3>
 
