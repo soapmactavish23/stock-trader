@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Stock Trader 🚀 Concluido...  🚧
+	🚧 Stock Trader 🚀 Concluido...  🚧
 </h4>
 
 ## ✅ Funções
